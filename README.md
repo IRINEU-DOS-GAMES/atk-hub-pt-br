@@ -23,7 +23,7 @@ O instalador confere o hash completo do arquivo da instalação. O mesmo número
 
 ## Instalar
 
-Você pode baixar **apenas o EXE** para instalar diretamente. O **ZIP compilado** contém o mesmo EXE, o arquivo para restaurar o original e as instruções; não é preciso baixar ambos. **SHA256SUMS.txt** é opcional e serve para conferir a integridade dos downloads.
+Você pode baixar **apenas o EXE** para instalar diretamente. O **ZIP compilado** contém o mesmo EXE, o arquivo para restaurar o original e as instruções; não é preciso baixar ambos.
 
 1. Baixe o EXE na Release ou extraia **todo** o arquivo [ATK-HUB-Portugues-atual.zip](ATK-HUB-Portugues-atual.zip).
 2. Abra **ATK-HUB-Portugues.exe** e aceite a confirmação de administrador do Windows. O executável já contém a solicitação de elevação (escudo).

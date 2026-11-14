@@ -1,2 +1,0 @@
-62e15248b31eb5c8d9701322d249d3e50718d15934bd736460ef7eeaef8d942b  ATK-HUB-Portugues.exe
-cc7c98a47ae0f1baf4d93355fecd23db6f0c2efdacd2ad1aa14c6d2204239518  ATK-HUB-Portugues-2026-11-14-compilado.zip
