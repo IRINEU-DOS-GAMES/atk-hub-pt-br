@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.asar
+*.bak
+*.tmp
+*.log
+*.new
+.env
+.env.*
+work/
+backups/
+build/
+dist/
+*.spec
+*.exe
+.venv/
+.tools/

@@ -1,0 +1,12 @@
+{
+  "archive_sha256": "b1c57fd7ed0c8e78537d563274abc1755902cb8ccd5ac287dc7d96fc74e42ecd",
+  "renderer_path": "static/index-DjcdhV3B.js",
+  "locale_map": "W",
+  "locale_options": "ar",
+  "pt_module": "()=>X(()=>import(\"./pt-BR-DOc-aBaD.js\"),[],import.meta.url)",
+  "locale_loading": "async",
+  "app_version": 28,
+  "asar_version": 83,
+  "prepared_on": "2026-11-13",
+  "repository_url": "https://github.com/IriAqueleQTCumeu/atk-hub-pt-br"
+}

@@ -1,0 +1,54 @@
+ATK HUB - Portugues (Brasil) - Atualizacao de 13/11/2026
+
+Compativel com o arquivo local do ATK HUB analisado em 13/11/2026:
+APP_VERSION 28 / CUR_ASAR_VERSION 83.
+Catalogo com 4.733 textos. Inclui as chaves dos catalogos ingles e chines
+da versao atual e preserva os marcadores de formatacao.
+
+INSTALAR
+1. Extraia todos os arquivos do ZIP em uma pasta nova.
+2. Abra ATK-HUB-Portugues.exe. Ele ja solicita administrador ao abrir;
+   aceite a confirmacao normal do Windows (escudo).
+3. Se o ATK HUB estiver aberto, ele sera fechado e reaberto automaticamente.
+   Se ja estiver fechado, aplica a traducao e continua fechado.
+4. No ATK HUB, escolha Portugues (Brasil) em Settings > Language.
+   Se estava fechado, abra-o quando quiser.
+   A escolha e salva pelo proprio aplicativo.
+
+O EXE compilado nao exige Python instalado.
+Os scripts de fonte, usados sem o EXE, exigem Python 3 e administrador.
+O ATK HUB deve estar em C:\Program Files\ATK HUB.
+Nao e necessario executar o instalador antigo antes deste.
+
+Altera apenas o modulo de idioma static/index-DjcdhV3B.js dentro
+de resources/main/app.asar. Nao altera DPI, macros, perfis ou firmware.
+Nao acessa a internet nem baixa programas durante a instalacao.
+Cria backup do arquivo original antes de aplicar a traducao.
+
+DESFAZER
+Execute Restaurar-original.cmd e aceite a confirmacao de administrador.
+O instalador tambem
+fecha e reabre automaticamente apenas se o ATK HUB ja estava aberto.
+Restaura o arquivo original correspondente a esta versao. Se o aplicativo
+tiver atualizado novamente, recusa restaurar um arquivo antigo sobre ele.
+
+COMPATIBILIDADE
+Este pacote verifica o hash exato da instalacao. Outro computador precisa
+ter o mesmo arquivo da versao analisada; uma versao diferente e recusada.
+Uma atualizacao futura do ATK HUB pode remover a traducao. Nesse caso,
+sera necessario adaptar o pacote novamente; nao force a instalacao antiga.
+Baixe pacotes novos somente pelas Releases do projeto:
+https://github.com/IriAqueleQTCumeu/atk-hub-pt-br/releases/latest
+
+VALIDACAO
+Codigo JavaScript, menu de idiomas, marcadores, integridade dos recursos,
+instalacao e restauracao foram verificados em uma copia isolada.
+A instalacao real do usuario nao foi alterada durante a preparacao.
+Detalhes tecnicos em validacao.json.
+
+As traducoes existentes foram reaproveitadas. Textos novos receberam
+traducao automatica; rotulos importantes foram revisados. Textos dentro
+de imagens, conteudo remoto e extensoes externas podem manter outro idioma.
+
+Esta versao usa carregamento assincrono de idiomas. O pacote preserva
+esse funcionamento e disponibiliza o catalogo completo de pt-BR.
