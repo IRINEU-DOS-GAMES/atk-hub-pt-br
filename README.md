@@ -2,7 +2,7 @@
 
 Pacote comunitário para completar a tradução do ATK HUB e adicionar **Português (Brasil)** ao seletor de idiomas. A escolha fica salva pelo próprio aplicativo.
 
-**[Baixar o instalador pronto na Release mais recente](https://github.com/IriAqueleQTCumeu/atk-hub-pt-br/releases/latest)** · [Repositório do projeto](https://github.com/IriAqueleQTCumeu/atk-hub-pt-br)
+**[Baixar o instalador pronto na Release mais recente](https://github.com/IRINEU-DOS-GAMES/atk-hub-pt-br/releases/latest)** · [Repositório do projeto](https://github.com/IRINEU-DOS-GAMES/atk-hub-pt-br)
 
 Esta pasta é o local fixo do projeto. O arquivo [ATK-HUB-Portugues-atual.zip](ATK-HUB-Portugues-atual.zip) contém a versão atual para compartilhar. Os pacotes anteriores podem ser guardados em [versoes](versoes).
 
@@ -23,7 +23,9 @@ O instalador confere o hash completo do arquivo da instalação. O mesmo número
 
 ## Instalar
 
-1. Baixe e extraia **todo** o arquivo [ATK-HUB-Portugues-atual.zip](ATK-HUB-Portugues-atual.zip).
+Você pode baixar **apenas o EXE** para instalar diretamente. O **ZIP compilado** contém o mesmo EXE, o arquivo para restaurar o original e as instruções; não é preciso baixar ambos. **SHA256SUMS.txt** é opcional e serve para conferir a integridade dos downloads.
+
+1. Baixe o EXE na Release ou extraia **todo** o arquivo [ATK-HUB-Portugues-atual.zip](ATK-HUB-Portugues-atual.zip).
 2. Abra **ATK-HUB-Portugues.exe** e aceite a confirmação de administrador do Windows. O executável já contém a solicitação de elevação (escudo).
 3. Se o ATK HUB estiver aberto, o instalador fecha o aplicativo, aplica a tradução e o reabre automaticamente. Se já estiver fechado, ele permanece fechado.
 4. No ATK HUB, selecione **Português (Brasil)** em **Settings → Language**. Se estava fechado, abra-o quando quiser.
@@ -46,7 +48,7 @@ Foram reaproveitadas traduções já presentes no aplicativo, completadas lacuna
 
 Uma atualização do aplicativo pode remover a tradução. Nesse caso é necessário analisar a nova versão e gerar outro pacote. Não edite o hash de compatibilidade para forçar um instalador antigo.
 
-Procure a versão atual nas [Releases deste repositório](https://github.com/IriAqueleQTCumeu/atk-hub-pt-br/releases/latest). O próprio instalador informa esse endereço quando encontra uma instalação diferente.
+Procure a versão atual nas [Releases deste repositório](https://github.com/IRINEU-DOS-GAMES/atk-hub-pt-br/releases/latest). O próprio instalador informa esse endereço quando encontra uma instalação diferente.
 
 Para manter este projeto, atualize os arquivos em `ATK-HUB-Portugues`, publique um novo ZIP com data em `versoes` e substitua `ATK-HUB-Portugues-atual.zip`. Atualize também `versao-atual.json` e a tabela deste documento.
 

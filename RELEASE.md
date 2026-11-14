@@ -4,6 +4,8 @@ Instalador Windows 64 bits pronto para usar, sem instalar Python.
 
 Baixe o ZIP da Release, extraia a pasta e abra **ATK-HUB-Portugues.exe**. O Windows solicita administrador ao abrir (escudo). Depois, selecione **Português (Brasil)** em **Settings → Language**.
 
+**Qual arquivo baixar:** o **EXE** instala diretamente; o **ZIP compilado** inclui o mesmo EXE, o restaurador e as instruções. Escolha um dos dois. **SHA256SUMS.txt** é opcional e permite conferir se os downloads estão intactos.
+
 - Catálogo com **4.733 textos**, incluindo as chaves da versão analisada.
 - Se o ATK HUB estiver aberto, o instalador fecha o aplicativo, aplica a tradução e o reabre. Se já estiver fechado, continua fechado.
 - Uma tradução deste pacote já instalada é reconhecida sem fechar nem reinstalar o app.
@@ -16,4 +18,4 @@ Os testes verificaram os recursos do ASAR, o catálogo, a instalação/restaura�
 
 Projeto comunitário não oficial. Alguns textos remotos, extensões e imagens podem manter o idioma original. Os hashes dos arquivos distribuídos acompanham a Release.
 
-Novas versões ficam nas [Releases do projeto](https://github.com/IriAqueleQTCumeu/atk-hub-pt-br/releases/latest).
+Novas versões ficam nas [Releases do projeto](https://github.com/IRINEU-DOS-GAMES/atk-hub-pt-br/releases/latest).

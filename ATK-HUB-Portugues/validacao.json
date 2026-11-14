@@ -47,6 +47,6 @@
   "process_lifecycle_test": "Real Windows stop/relaunch tested with a disposable headless process, in an isolated installation copy. Actual ATK HUB was not closed or launched.",
   "compiled_exe_test": "PE manifest and embedded runtime/data verified. Final elevated EXE was not launched as part of the isolated tests.",
   "compiled_on": "2026-11-14",
-  "compiled_exe_sha256": "644554446e49d4fd0464957ce01a3ad759344fdcd077166cd3d58721331c6a4e",
-  "repository_url": "https://github.com/IriAqueleQTCumeu/atk-hub-pt-br"
+  "compiled_exe_sha256": "62e15248b31eb5c8d9701322d249d3e50718d15934bd736460ef7eeaef8d942b",
+  "repository_url": "https://github.com/IRINEU-DOS-GAMES/atk-hub-pt-br"
 }

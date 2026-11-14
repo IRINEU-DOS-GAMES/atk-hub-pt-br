@@ -38,7 +38,7 @@ ter o mesmo arquivo da versao analisada; uma versao diferente e recusada.
 Uma atualizacao futura do ATK HUB pode remover a traducao. Nesse caso,
 sera necessario adaptar o pacote novamente; nao force a instalacao antiga.
 Baixe pacotes novos somente pelas Releases do projeto:
-https://github.com/IriAqueleQTCumeu/atk-hub-pt-br/releases/latest
+https://github.com/IRINEU-DOS-GAMES/atk-hub-pt-br/releases/latest
 
 VALIDACAO
 Codigo JavaScript, menu de idiomas, marcadores, integridade dos recursos,
